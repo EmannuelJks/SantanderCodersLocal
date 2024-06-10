@@ -1,5 +1,5 @@
-#Curso Digital: 
-    Comandos GIT
+# Curso Digital: 
+   ## Comandos GIT
     git --version ( Consultar versao do Git pelo CMD)
     git clone http:xxxxxxxxxxxxx (Comando para clonar um repositorio online para a pasta atual.) 
     git init (Comando para iniciar uma pasta local como sendo git)
