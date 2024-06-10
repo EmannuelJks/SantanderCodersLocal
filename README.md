@@ -8,3 +8,5 @@
     git add NomeDoArqueivo (comando para adicionar modificacoes para a area de STAGED )
     git diff (comando para verifiar alteracoes antes de dar um git add)
     git diff --staged (comando para verificar as alteracoes na area staged)
+
+    final
