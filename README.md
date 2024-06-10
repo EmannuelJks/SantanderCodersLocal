@@ -14,5 +14,6 @@
     * git push (salvando alteracoes feita no visualcode no guithub)
     * git pull (restaura alteracoes feitas no github e mescla com o meu repositorio local)
     * git fetch (baixar alteracoes do repositorio remoto antes de dar um commit)
+    * git diff origin/master (verificar alteracoes feitas baixadas do repositorio remoto em origin/master)
 
     final
