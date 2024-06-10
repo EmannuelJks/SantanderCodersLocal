@@ -11,5 +11,6 @@
     * git commit -m "Recado sobre o commit"( modificando o status de staged para umodifi)
     * git restore (restaura as mudancas salvas no documento)
     * git restore --staged (restaura as mudancas feitas em staged e volta para umodifide )
+    * git push (salvando alteracoes feita no visualcode no guithub)
 
     final
