@@ -16,6 +16,9 @@
     * git fetch (baixar alteracoes do repositorio remoto antes de dar um commit)
     * git diff origin/master (verificar alteracoes feitas baixadas do repositorio remoto em origin/master)
     * git branch xxxxxx (criar branch)
-    
+    * git log --oneline --decorate (comando git para verificar qual branche estamos)
+    * git checkout testing (comando para mudar de branch)
+
+
 
     final
