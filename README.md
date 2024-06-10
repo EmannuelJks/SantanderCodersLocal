@@ -13,5 +13,6 @@
     * git restore --staged (restaura as mudancas feitas em staged e volta para umodifide )
     * git push (salvando alteracoes feita no visualcode no guithub)
     * git pull (restaura alteracoes feitas no github e mescla com o meu repositorio local)
+    * git fetch (baixar alteracoes do repositorio remoto antes de dar um commit)
 
     final
