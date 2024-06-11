@@ -19,7 +19,7 @@
     * git log --oneline --decorate (comando git para verificar qual branche estamos)
     * git checkout testing (comando para mudar de branch)
     * git marge xxxxxx (unindo arquivos separados  pro branch, esse e o marge mais)
-
+ 
 
 
     final
